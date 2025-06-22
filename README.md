@@ -22,3 +22,10 @@ On detection of a malicious URL, a warning page is shown and navigation is block
 
 ## ⚠️ Disclaimer
 Use for educational and ethical testing purposes only.
+
+## 👤 Author
+
+**Abhay Kumar Tripathi**  
+[GitHub](https://github.com/ABHAYKUMARTRIPATHI)  
+[LinkedIn](https://www.linkedin.com/in/abhay-kumar-tripathi-54899b31a)  
+[Instagram](https://www.instagram.com/abhaytripathi_46)
