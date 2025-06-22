@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Malicious URL Blocker",
+  "version": "1.0",
+  "description": "Blocks access to malicious URLs using VirusTotal API.",
+  "permissions": ["tabs", "storage", "scripting", "webRequest", "webRequestBlocking", "<all_urls>"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
